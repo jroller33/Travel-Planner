@@ -2,7 +2,11 @@
 
 ## 🚧 Under development 🚧
 
-build an API using Node.js, Express.js, MySQL, and Sequelize, and deploy it to Heroku.
+- Create a MySQL database to store travellers' trips, accounts, etc. 
+- Build an API using Node.js, Express.js, and Sequelize
+- test API using [Insomnia](https://insomnia.rest/)
+- make some kind of frontend
+- deploy it to Heroku.
 
 ```
 User Stories
